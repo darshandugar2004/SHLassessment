@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+pydantic
+scikit-learn
+google-genai 
